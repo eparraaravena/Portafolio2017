@@ -1,0 +1,16 @@
+/* your styles go here */
+
+
+
+
+@media (min-width: 1200px) {
+  .text-intro h1 {
+    font-family: "Open Sans";
+    font-size: 67px;
+    text-decoration: underline;
+    color: #262626;
+
+  }
+
+}
+/*
